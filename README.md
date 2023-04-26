@@ -1,9 +1,18 @@
 <h1 align="left">Hi 👋, I'm Gonzalo Vidal</h1>
 <h3 align="left">A front-end developer with some back-end knowledge as well.</h3>
 
+
+
+
+![banner](https://user-images.githubusercontent.com/67983115/234703178-26dac2c8-904d-4379-8a9b-c3af81f80eaf.jpeg)
+
+
+
+
 - *🔭 I’m currently working on CopyCat, a web 3.0 project.*
 - *🌱 I have been studying for my Superior Technician in Systems degree at the National Technological University since 2022.*
 - *❤️ Passionate about front-end development and constantly learning about back-end development through self-study and my university studies.*
+
 
 <h3>Front-end technologies</h3>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
