@@ -9,7 +9,7 @@
 
 
 
-- *🔭 I’m currently working on CopyCat, a web 3.0 project.*
+- *🔭 I’m currently working on Baufest.*
 - *🌱 I have been studying for my Superior Technician in Systems degree at the National Technological University since 2022.*
 - *❤️ Passionate about front-end development and constantly learning about back-end development through self-study and my university studies.*
 
